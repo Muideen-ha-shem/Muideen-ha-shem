@@ -1,118 +1,111 @@
-# Hi, I'm Muideen 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-Production%20Ready-blue?style=for-the-badge&logo=brain&logoColor=white" alt="AI Engineering" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![Email](https://img.shields.io/badge/Email-your-email%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+<h1 align="center">Muideen Ha-shem</h1>
+<p align="center">Building reliable AI systems, intelligent APIs, and cloud-native AI products for modern teams.</p>
 
-## 🚀 AI/ML Engineer | Generative AI & Cloud-Native Solutions
-
-I build scalable, production-ready AI systems that turn data into intelligent applications using Python, FastAPI, LLMs, RAG, and Azure. I partner with startups, engineering teams, and enterprises to deliver high-impact AI solutions that improve workflows, automate knowledge, and accelerate innovation.
-
-**Let's connect, collaborate, or discuss opportunities in AI engineering and enterprise AI adoption.**
+<p align="center">
+  <a href="#contact"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" /></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/Collaborate-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Collaborate" /></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/View%20Projects-Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" /></a>
+</p>
 
 ---
 
-## About Me
+## About
 
-I am an AI/ML Engineer focused on building modern AI applications, backend systems, and enterprise-grade AI services.
+I focus on solving the friction between AI research and production systems. I design intelligent applications that make data accessible, automate decisions, and keep services stable under load.
 
-- Passionate about Generative AI, LLMs, and RAG systems
-- Skilled in backend engineering, API design, and cloud-native deployments
-- Dedicated to continuous learning, innovation, and solving real business problems
-- Committed to building production-ready solutions with performance, reliability, and scalability in mind
+I build backend-first AI systems where APIs, retrieval, and model orchestration work together cleanly. My engineering approach centers on observability, reusable architecture, and predictable behavior.
+
+My goal is to deliver AI products that teams can trust: systems that reduce hallucinations, scale reliably, and stay easy to maintain as business needs evolve.
 
 ---
 
 ## Tech Stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <strong>AI & Generative AI</strong><br />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" />
+</p>
 
-### AI/ML Technologies
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<p align="center">
+  <strong>Backend Engineering</strong><br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+</p>
 
-### LLM & Generative AI
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<p align="center">
+  <strong>Data & Retrieval</strong><br />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Vector%20DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Vector DB" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-7E57C2?style=for-the-badge&logo=elastic&logoColor=white" alt="Semantic Search" />
+</p>
 
-### Backend Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=postman&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Vector DB](https://img.shields.io/badge/Vector%20DB-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud Platforms
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### DevOps & Deployment Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="center">
+  <strong>Cloud & Infrastructure</strong><br />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
 ---
 
 ## AI & Engineering Expertise
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & Autonomous Workflows
-- Prompt Engineering & System Design
-- FastAPI Development & API Architecture
-- Azure OpenAI & Cloud AI Services
-- Vector Databases & Semantic Search
-- Production API Development
-- Cloud-Native Applications
-- Docker Containerization
-
----
-
-## Featured Projects
-
-- **AI Agent Project** – Intelligent agent orchestration for decision support and hands-free workflows. [Explore](https://github.com/your-username/ai-agent-project)
-- **RAG Chatbot** – Conversational knowledge retrieval with semantic search and document augmentation. [View](https://github.com/your-username/rag-chatbot)
-- **FastAPI Backend** – High-performance REST API for AI services and real-time integrations. [View](https://github.com/your-username/fastapi-backend)
-- **Azure OpenAI Integration** – End-to-end AI application using Azure OpenAI, vector search, and secure cloud deployment. [View](https://github.com/your-username/azure-openai-integration)
-- **Machine Learning Project** – Scalable ML model deployment with data pipelines and inference optimization. [View](https://github.com/your-username/ml-production-project)
+- Designing Retrieval-Augmented Generation systems that connect model reasoning with real data.
+- Building AI-powered APIs for production workflows, automation, and knowledge-driven products.
+- Integrating enterprise LLM solutions with backend services, security, and observability.
+- Creating agentic workflows that automate processes while preserving control and auditability.
+- Deploying cloud-native AI services that scale, recover, and stay performant.
+- Improving retrieval quality, reducing hallucinations, and making responses more reliable.
 
 ---
 
 ## Current Focus
 
-- Building with LangChain and LangGraph
-- Developing agentic AI systems
-- Expanding Azure AI Services expertise
-- Designing production AI systems and deployment pipelines
-- Strengthening enterprise AI engineering workflows
+- Agentic AI systems for practical automation
+- Production RAG architectures with clean retriever pipelines
+- LLM evaluation and prompt robustness
+- Azure AI services and secure deployment patterns
+- AI engineering best practices for sustainable systems
 
 ---
 
 ## GitHub Analytics
 
-![Muideen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muideenil&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muideenil&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muideenil&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-## Collaboration
+## Featured Projects
 
-I collaborate with recruiters, startups, engineering teams, and open-source contributors on AI engineering, consulting, and innovative product builds.
-
-- Recruiters: AI engineering roles, team growth, and hiring support
-- Startups: MVPs, AI product strategy, and technical execution
-- Engineering Teams: Architecture, API development, and cloud deployment
-- Open Source Contributors: Community projects, integrations, and tooling
-
-**Ready to build the next AI-powered product? Let's connect and create impact together.**
+- **AI agent orchestration** — production-ready systems that coordinate model actions, data retrieval, and business workflows.
+- **RAG chat interfaces** — conversational knowledge systems built on semantic search and document augmentation.
+- **FastAPI AI backends** — scalable APIs for inference, orchestration, and analytics.
+- **Azure OpenAI deployments** — secure, cloud-native applications with vector search and model integration.
+- **Inference pipelines** — aligned AI services with monitoring, retries, and operational visibility.
 
 ---
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your-email@example.com
-- Portfolio: https://your-portfolio.com
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Write%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
----
-
-## Footer
-
-Building intelligent systems with a modern AI engineering mindset. Continuous growth, practical innovation, and scalable AI solutions.
+<p align="center">Open to collaboration, AI product partnerships, and engineering leadership conversations.</p>
 
